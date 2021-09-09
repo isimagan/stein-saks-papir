@@ -1,5 +1,6 @@
 {
     "name": "Stein, saks, papir",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
