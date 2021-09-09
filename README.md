@@ -7,6 +7,6 @@ Det er derimot lagt inn en øvelse hvor elevene lager programmet trinnvis.
 Del denne linken med elevene: **https://makecode.microbit.org/#tutorial:github:isimagan/stein-saks-papir/tutorial**
 
 ## Ekstraoppgaver
-Oppgavene finner du [her](/ekstraoppgaver)
+Oppgavene finner du [her](/stein-saks-papir/ekstraoppgaver)
 * Tøm skjermen når ``A+B`` trykkes.
 * Vis ikonene når micro:bit starter.
