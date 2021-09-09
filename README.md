@@ -1,31 +1,12 @@
+# micro:bit: Stein, saks, papir
+Spill stein, saks, papir mot en micro:bit. Ingen blokker er satt inn.
 
-> Åpne denne siden på [https://isimagan.github.io/stein-saks-papir/](https://isimagan.github.io/stein-saks-papir/)
+Det er derimot lagt inn en øvelse hvor elevene lager programmet trinnvis.
 
-## Bruk som utvidelse
+## Øvelse
+Del denne linken med elevene: **https://makecode.microbit.org/#tutorial:github:isimagan/stein-saks-papir/tutorial**
 
-Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
-
-* åpne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klikk på **Nytt prosjekt**
-* klikk på **Utvidelser** i menyen under tannhjulet
-* søk etter **https://github.com/isimagan/stein-saks-papir** og importér
-
-## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/isimagan/stein-saks-papir/workflows/MakeCode/badge.svg)
-
-For å redigere dette kodeområdet i MakeCode.
-
-* åpne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klikk på **Importer** og så på **Importér URL**
-* lim inn **https://github.com/isimagan/stein-saks-papir** og klikk på importér
-
-## Forhåndsvisning av blokker
-
-Dette bildet viser blokk-koden fra den siste oppdateringen i hovedgrenen.
-Dette bildet kan ta noen minutter å oppdatere.
-
-![En opptegnet visning av blokkene](https://github.com/isimagan/stein-saks-papir/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (brukes for søk, visualisering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Ekstraoppgaver
+Oppgavene finner du [her](/ekstraoppgaver)
+* Tøm skjermen når ``A+B`` trykkes.
+* Vis ikonene når micro:bit starter.
